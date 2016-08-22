@@ -7,7 +7,6 @@ class Gigasecond
     d = d + (10 ** 9)
     # puts d
     d
-    
   end
 end
 # obj= Gigasecond.new
